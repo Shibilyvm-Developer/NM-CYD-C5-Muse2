@@ -1,0 +1,75 @@
+# COPYRIGHT — NM-CYD-C5-Muse2
+
+Copyright (c) 2026 Shibily VM. All rights reserved.
+
+Project:
+NM-CYD-C5-Muse2
+
+Project description:
+ESP32-C5 + Muse 2 EEG Engineering / Research Project
+
+Developer:
+Shibily VM
+
+Background / acknowledgements supplied by the author:
+Chettuva, Thrissur, Kerala, India
+BITS Pilani — Student
+Dubai Technologies
+Geepas, Dubai
+Orion Hardware Development Lab
+
+Mentors acknowledged:
+Midhulaj PJ Sir
+Swathi Miss
+
+## OWNERSHIP BOUNDARY
+
+This copyright statement applies only to original project-specific material
+authored by Shibily VM and legally publishable by the author.
+
+This statement does NOT claim ownership of:
+
+* Espressif ESP-IDF
+* FreeRTOS
+* Apache Mynewt NimBLE
+* C/C++ compiler or runtime components
+* ESP32-C5 hardware
+* Muse hardware
+* Muse firmware
+* Muse product names
+* Muse logos
+* Muse trademarks
+* third-party libraries
+* third-party fonts
+* third-party graphics
+* third-party datasets
+* third-party documentation
+* employer-owned material
+* client-owned material
+* university-owned material
+* laboratory-owned material
+* other third-party intellectual property
+
+## THIRD-PARTY RIGHTS
+
+Third-party components remain subject to their own copyright notices,
+licenses, terms, and trademark rights.
+
+Publication of this repository does not transfer ownership of any
+third-party material to Shibily VM.
+
+## EMPLOYMENT / CONTRACT / INSTITUTIONAL RIGHTS
+
+Before public distribution, the author should verify that no employment,
+contract, laboratory, university, client, confidentiality, or other agreement
+assigns ownership or publication rights over any included material.
+
+## RELATED DOCUMENTS
+
+See:
+
+* LICENSE
+* SECURITY.md
+* THIRD_PARTY_NOTICES.md
+* PUBLIC_RELEASE_CHECKLIST.md
+

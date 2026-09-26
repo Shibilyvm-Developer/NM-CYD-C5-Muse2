@@ -1,0 +1,74 @@
+NM-CYD-C5-Muse2 — PROPRIETARY SOFTWARE LICENSE
+
+Copyright (c) 2026 Shibily VM. All rights reserved.
+
+1. OWNERSHIP
+
+The original project-specific source code and documentation in this repository
+are copyrighted by Shibily VM, except for third-party components expressly
+identified in THIRD_PARTY_NOTICES.md or governed by their applicable upstream
+licenses.
+
+This license does NOT claim ownership of ESP-IDF, FreeRTOS, NimBLE, Muse
+hardware, Muse firmware, Muse trademarks, or any other third-party material.
+
+2. PERMITTED USE
+
+You may view and study the repository for personal, educational, research,
+and evaluation purposes.
+
+3. RESTRICTIONS
+
+Without prior written permission from Shibily VM, you may not:
+
+* redistribute this project or substantial portions of it;
+* publish mirrors or repackaged copies;
+* use original project-specific code in a commercial product or service;
+* sell, sublicense, or commercially license original project-specific code;
+* create and distribute derivative works based substantially on original
+  project-specific code.
+
+4. THIRD-PARTY SOFTWARE AND MATERIAL
+
+ESP-IDF, FreeRTOS, NimBLE, compiler/toolchain components, Muse hardware,
+Muse firmware, Muse trademarks, and other third-party materials remain the
+property of their respective owners.
+
+Those components remain subject to their respective licenses, copyrights,
+terms, and trademark rights.
+
+Nothing in this license transfers, restricts, or replaces those rights.
+
+5. EMPLOYER / CLIENT / INSTITUTIONAL IP
+
+This repository does not grant rights to code, documents, designs, data, or
+materials belonging to an employer, client, university, laboratory, or other
+third party.
+
+Only material that the author is legally entitled to publish should be
+included in this repository.
+
+6. NO WARRANTY
+
+The project is provided "as is", without warranties of any kind.
+
+The author is not responsible for damage, data loss, device damage, loss of
+EEG data, or other consequences arising from use of the project.
+
+7. MEDICAL / SAFETY STATUS
+
+This project is an engineering and research software project.
+
+It is not presented as a medical device, diagnostic system, treatment system,
+or safety-critical controller.
+
+8. PERMISSIONS
+
+For permissions beyond these terms, contact the copyright holder through the
+contact method published with the project.
+
+Effective release:
+
+PUBLIC-v1.0
+Version 1.0.0
+

@@ -1,0 +1,25 @@
+# ESP-IDF build output
+build/
+sdkconfig.old
+dependencies.lock
+
+# Local/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs and captures
+*.log
+*.txt
+muse_gatt_dump.txt
+
+# Generated binaries
+*.bin
+*.elf
+*.map
+
+# Private/local files
+.env
+.env.*
